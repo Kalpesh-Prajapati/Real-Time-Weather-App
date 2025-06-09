@@ -27,7 +27,7 @@ A Python desktop application that shows real-time weather using Tkinter and Open
 
 ## 📷 Screenshot
 
-![Weather UI](9011110.jpg)
+![Weather UI](Screenshot.png)
 
 ## 🚀 How to Run
 
